@@ -4,6 +4,8 @@ Developer: Tiger
 
 Project designed for Hack112, 2022 Spring.
 
+YouTube link: https://youtu.be/Llwkf7oRi10
+
 ###IMPORTANT! Rules and Guide!###
 
 Pygame, Opencv, Mediapipe are required.
