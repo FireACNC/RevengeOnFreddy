@@ -1,6 +1,7 @@
 # RevengeOnFreddy
 
 Developer: Tiger
+
 Project designed for Hack112, 2022 Spring.
 
 ###IMPORTANT! Rules and Guide!###
@@ -24,7 +25,9 @@ Stick out your thumb to attack a Freddy bear in front of you.
 Notice that you won't be continuously attacking if you keep sticking out your thumb.
 
 Try to score 15000!
+
 Press E to enable Epic Background Music!
+
 Press R to restart the game.
 
 ###From now on, less important for players.###
@@ -35,8 +38,12 @@ so the perspective projection is written from scratch.
 All the dumb drawings are down by myself.
 
 Somehow inspired by YubiyubiRunner from https://twitter.com/NenlNen
+
 Wrapper of hand tracking studied from https://youtu.be/NZde8Xt78Iw 
+
 Templates of memes retrieved from https://imgflip.com/memetemplates
+
 Font used for all text is 'Tanuki Magic'
+
 Background Music is An Epic Story by MaxKoMusic https://maxkomusic.com/ 
 
