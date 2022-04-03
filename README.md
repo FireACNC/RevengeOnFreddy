@@ -38,5 +38,5 @@ Somehow inspired by YubiyubiRunner from https://twitter.com/NenlNen
 Wrapper of hand tracking studied from https://youtu.be/NZde8Xt78Iw 
 Templates of memes retrieved from https://imgflip.com/memetemplates
 Font used for all text is 'Tanuki Magic'
-Background Music is An Epic Story by MaxKoMusic https://maxkomusic.com/
+Background Music is An Epic Story by MaxKoMusic https://maxkomusic.com/ 
 
